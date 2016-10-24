@@ -65,7 +65,8 @@
 
 ### 参与贡献
 
-欢迎提交小程序相关的开源项目或工具资源，请创建 [Issue](https://github.com/weixin/WeIndex/issues) 或发送 [Pull Request](https://github.com/weixin/WeIndex/pulls) 提交，感谢你的参与和贡献。
+欢迎提交小程序相关的开源项目或工具资源，供大家相互学习。  
+请创建 [Issue](https://github.com/weixin/WeIndex/issues) 或发送 [Pull Request](https://github.com/weixin/WeIndex/pulls) 提交，感谢你的参与和贡献。
 
 *注：新提交的项目请依次在列表底部追加*
 
