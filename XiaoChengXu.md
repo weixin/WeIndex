@@ -50,6 +50,7 @@
 - [富文本解析自定义组件](https://github.com/icindy/wxParse) - @icindy
 - [仿 jQuery 插件](https://github.com/stephenml/wx-query) - @stephenml
 - [面包旅行](https://github.com/romoo/weapp-demo-breadtrip) - @romoo
+- [仿showToast增强插件](https://github.com/kiinlam/wetoast) - @kiinlam
 - 更多添加中...
 
 ### 相关工具
