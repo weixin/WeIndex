@@ -51,6 +51,7 @@
 - [仿 jQuery 插件](https://github.com/stephenml/wx-query) - @stephenml
 - [面包旅行](https://github.com/romoo/weapp-demo-breadtrip) - @romoo
 - [仿showToast增强插件](https://github.com/kiinlam/wetoast) - @kiinlam
+- [煎蛋小程序](https://github.com/arkilis/weapp-jandan) - @arkilis
 - 更多添加中...
 
 ### 相关工具
