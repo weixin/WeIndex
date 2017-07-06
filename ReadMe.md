@@ -44,6 +44,7 @@
 	- [WeUI-Design](https://github.com/weui/WeUI-Design) - 微信原生视觉前端视觉源文件（Sketch & PSD）
 - [WeFlow](https://github.com/weixin/WeFlow) - Web 前端开发工作流工具(GUI)
 - [tmt-workflow](https://github.com/weixin/tmt-workflow) - Web 前端开发工作(命令行)
+- [WeSketch](https://github.com/weixin/Sketch) - 一个强大的 Sketch 插件合集
 - [vConsole](https://github.com/WechatFE/vConsole) - 移动端开发调试面板，小程序内置调试
 - [libco](https://github.com/Tencent/libco) - 微信后台大规模使用的 C/C++ 协程库
 - [PhxPaxos](https://github.com/tencent-wechat/phxpaxos) - 基于 Paxos 协议的多机状态拷贝类库
